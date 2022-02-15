@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenextbunny&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
+![Snake animation](https://github.com/thenextbunny/thenextbunny/blob/output/github-contribution-grid-snake.svg)
