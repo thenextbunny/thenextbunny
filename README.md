@@ -1,5 +1,5 @@
 ### **👋 Hi, I’m Vitor**
-👾 I know <code>html</code>, <code>css</code>, <code>javascript</code><br>
+👾 I know <code>html</code>, <code>css</code><br>
 🌱 I’m currently learning css and javascript<br>
 🎃 My pronouns are he/him
 
