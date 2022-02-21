@@ -1,6 +1,6 @@
 ### **👋 Hi, I’m Vitor**
-👾 I know <code>html</code>, <code>css</code><br>
-🌱 I’m currently learning css and javascript<br>
+👾 I know <code>html</code>, <code>css</code>, <code>bootstrap</code><br>
+🌱 I’m currently learning css, bootstrap and javascript<br>
 🎃 My pronouns are he/him
 
 <div align="center">
