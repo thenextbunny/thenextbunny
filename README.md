@@ -1,7 +1,7 @@
 <div align="center">
   <div>
     <img src="https://c.tenor.com/4SI2SKRELfEAAAAi/machiko-rabbit.gif" width="250px"><!-- Machiko Stickers-->
-    <h2>Vitor Coelho</h2>
+    <h2>Hi, I'm Vitor Coelho</h2>
   </div>
   <div>
     <h3>Skills</h3>
