@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="https://c.tenor.com/4SI2SKRELfEAAAAi/machiko-rabbit.gif" width="150px"><!-- Machiko Stickers-->
+    <img src="https://c.tenor.com/4SI2SKRELfEAAAAi/machiko-rabbit.gif" width="190px"><!-- Machiko Stickers-->
     <h2>Hi, I'm Vitor Coelho</h2>
   </div>
   <div>
